@@ -155,5 +155,5 @@
 ## License
 
 *This game was developed for educational purposes and is provided as-is without any warranty.*
-```
+
 
