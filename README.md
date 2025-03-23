@@ -112,3 +112,48 @@
    ```bash
    git clone https://github.com/DanielSong05/Temple-Of-Doom.git
    cd Temple-Of-Doom
+2. **Build the Project:**
+
+Use your preferred IDE (e.g., Visual Studio) or compile from the command line:
+
+```bash
+g++ -o TempleOfDoom *.cpp
+```
+
+*Ensure you have a C++ compiler installed (e.g., g++ on Linux/macOS or Visual Studio on Windows).*
+
+3. **Run the Game:**
+
+```bash
+./TempleOfDoom
+```
+
+*On Windows, run the generated executable (e.g., TempleOfDoom.exe).*
+
+## Project Structure
+
+- **Source Files:**  
+  The project is organized into several `.cpp` and `.h` files, each representing different components of the game (e.g., Actor, Game, Player, Monsters, Weapons, Scrolls).
+
+- **Build Files:**  
+  Contains Visual Studio project files and build artifacts. These are excluded from version control via the `.gitignore` file.
+
+- **Utilities:**  
+  Includes helper functions such as `randInt`, `getCharacter`, and `clearScreen` for handling game input and output.
+
+## Known Issues / Future Enhancements
+
+- **Goblin Pathfinding:**  
+  The recursive algorithm for goblin movement meets project requirements but might require further optimization if performance issues are encountered at higher smell distances.
+
+- **Additional Monsters and Items:**  
+  Future enhancements could include more varied monster behaviors and additional game objects or power-ups.
+
+- **User Interface Improvements:**  
+  Enhancements such as better map rendering, more detailed statistics, and improved controls could enhance the overall gameplay experience.
+
+## License
+
+*This game was developed for educational purposes and is provided as-is without any warranty.*
+```
+
