@@ -114,21 +114,21 @@
    cd Temple-Of-Doom
 2. **Build the Project:**
 
-Use your preferred IDE (e.g., Visual Studio) or compile from the command line:
+   Use your preferred IDE (e.g., Visual Studio) or compile from the command line:
 
-```bash
-g++ -o TempleOfDoom *.cpp
-```
+   ```bash
+   g++ -o TempleOfDoom *.cpp
+   ```
 
-*Ensure you have a C++ compiler installed (e.g., g++ on Linux/macOS or Visual Studio on Windows).*
+   *Ensure you have a C++ compiler installed (e.g., g++ on Linux/macOS or Visual Studio on Windows).*
 
 3. **Run the Game:**
 
-```bash
-./TempleOfDoom
-```
+   ```bash
+   ./TempleOfDoom
+   ```
 
-*On Windows, run the generated executable (e.g., TempleOfDoom.exe).*
+   *On Windows, run the generated executable (e.g., TempleOfDoom.exe).*
 
 ## Project Structure
 
