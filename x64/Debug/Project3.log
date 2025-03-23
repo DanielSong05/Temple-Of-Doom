@@ -1,0 +1,12 @@
+﻿  Game.cpp
+C:\CS32\Project3\Game.cpp(141,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\CS32\Project3\Game.cpp(156,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Goblin.cpp
+C:\CS32\Project3\Goblin.cpp(40,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CS32\Project3\Goblin.cpp(41,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CS32\Project3\Goblin.cpp(88,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CS32\Project3\Goblin.cpp(89,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CS32\Project3\Goblin.cpp(115,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\CS32\Project3\Goblin.cpp(116,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Project3.vcxproj -> C:\CS32\Project3\x64\Debug\Project3.exe
